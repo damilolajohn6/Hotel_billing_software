@@ -1,0 +1,57 @@
+[
+    {
+        "category": "Fast Food",
+        "items": [
+            {
+                "name": "French Fries",
+                "price": 106
+            },
+            {
+                "name": "Chilli Cheese Toast",
+                "price": 115
+            },
+            {
+                "name": "Chilli Cheese Garlic Toast",
+                "price": 115
+            },
+            {
+                "name": "Garlic Bread",
+                "price": 98
+            },
+            {
+                "name": "Garlic Bread with Cheese",
+                "price": 119
+            }
+
+        ]
+    },
+    {
+        "category": "Sandwich",
+        "items": [
+            {
+                "name": "Plain Sandwich",
+                "price": 175
+            },
+            {
+                "name": "Grilled Sandwich",
+                "price": 175
+            },
+            {
+                "name": "Club Sandwich",
+                "price": 175
+            }
+
+        ]
+    },
+    {
+        "category": "Salads",
+        "items": [
+            {
+                "name": "Russian Salad/Macaroni",
+                "price": 119
+            }
+
+        ]
+    }
+
+]
