@@ -9,7 +9,7 @@ from tkinter import messagebox
 class RestaurantBillingApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("Welcome to Danna Hotel and Suites")
+        self.root.title("BillEase")
         self.root.geometry("1360x720")  # Set your desired window size
         self.root.iconbitmap("resources/icons/Burger.ico")
 
