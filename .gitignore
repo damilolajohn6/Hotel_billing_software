@@ -4,3 +4,5 @@ work.py
 
 /__pycache__
 
+billing_database.db
+
